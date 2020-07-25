@@ -3,6 +3,8 @@
 <!--
 **ashish-sharma91/ashish-sharma91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Hello 👋🏻](https://i.ibb.co/TTbB4vw/Web-1920-1.png)](https://github.com/ashish-sharma91)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
