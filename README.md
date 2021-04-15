@@ -2,4 +2,5 @@
 
 - 🔭 Web Development
 - 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 JavaScript Enthusiast
 - [Portfolio](https://ashish-sharma91.github.io/javascript-ninja/)
