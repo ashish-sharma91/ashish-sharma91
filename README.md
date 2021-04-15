@@ -2,4 +2,4 @@
 
 - 🔭 Web Development
 - 🌱 I’m currently learning Data Structures & Algorithms
-- [Portfolio](https://ashish-sharma91.github.io/javascript-ninja/0.%20Toy%20Apps/index.html)
+- [Portfolio](https://ashish-sharma91.github.io/javascript-ninja/)
