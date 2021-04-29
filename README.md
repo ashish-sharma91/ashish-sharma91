@@ -2,4 +2,4 @@
 - 🌱 Data Structures & Algorithms
 - 🌱 JavaScript Enthusiast
 - [Portfolio](https://ashish-sharma91.github.io/javascript-ninja/)
-- [Portfolio](https://www.linkedin.com/in/ashishsharma22/)
+- [Linkedin](https://www.linkedin.com/in/ashishsharma22/)
